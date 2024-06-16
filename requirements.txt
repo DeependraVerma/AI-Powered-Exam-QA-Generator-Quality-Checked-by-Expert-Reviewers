@@ -1,0 +1,5 @@
+pyautogen
+python-dotenv
+google-generativeai
+pyautogen[gemini,retrievechat,lmm]
+streamlit
